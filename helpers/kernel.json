@@ -1,0 +1,14 @@
+{
+  "display_name": "Pyspark (Py3)",
+  "language_info": { "name": "python",
+                     "codemirror_mode": { "name": "ipython", "version": 3 }
+                   },
+  "argv": [
+"/opt/ipnb/bin/pyspark-ipnb",
+"-m", "ipykernel",
+"-f", "{connection_file}"
+  ],
+  "env": {
+      "SPARK_HOME": "/opt/spark/current"
+  }
+}

@@ -1,0 +1,9 @@
+c = get_config()
+c.NotebookApp.ip = '0.0.0.0'
+c.NotebookApp.token = ''
+c.NotebookApp.open_browser = False
+c.NotebookApp.log_level = 'INFO'
+c.NotebookApp.notebook_dir = '/vagrant/labs'
+c.IPKernelApp.matplotlib = 'inline'
+c.KernelRestarter.time_to_dead = 30.0
+c.KernelRestarter.debug = True

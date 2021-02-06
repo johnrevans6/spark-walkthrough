@@ -1,6 +1,4 @@
 # Lab 1 - Spark for Developers
-## Intended Audience
-This lab is intended for
 
 ## Duration
 The guided portion of this lab shouldn't take longer than 30 minutes to complete. The unguided portion is intended to serve as an interesting challenge and could take
